@@ -6,6 +6,8 @@ Custom RP2040-based development board for embedded systems and hardware prototyp
 
 ### Front
 ![Front](image/front.png)
+<img width="1512" height="947" alt="Screenshot 2026-06-02 at 10 48 57 AM" src="https://github.com/user-attachments/assets/7f0fe45c-6121-4fc0-b69f-15a6effe49f1" />
+
 
 ### Back
 ![Back](image/back.png)
