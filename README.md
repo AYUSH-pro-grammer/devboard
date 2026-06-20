@@ -50,7 +50,7 @@ The following BOM was used for the RP2040 DevBoard.
 - USB Type-C connector footprint is compatible with HRO TYPE-C-31-M-12.
 - All resistors and capacitors use 0402 footprints unless otherwise noted.
 - Some LCSC parts may become unavailable over time; equivalent parts with matching value, package, and electrical specifications may be substituted.
-- For the latest sourcing information, see [`bom/bom.csv`](bom/bom.csv).
+- For the latest sourcing information, see [`bom.csv`](bom.csv).
 
 ### Estimated Cost
 
