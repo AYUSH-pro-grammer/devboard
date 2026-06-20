@@ -68,6 +68,10 @@ The following BOM was used for the RP2040 DevBoard.
 > Prices vary depending on supplier stock and order quantity.
 
 
+<img width="356" height="832" alt="Screenshot 2026-06-21 at 12 44 32 AM" src="https://github.com/user-attachments/assets/7cba910f-798c-445a-b6f2-ac2b9c3f08c0" />
+
+
+
 
 ## Features
 
